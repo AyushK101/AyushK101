@@ -26,12 +26,12 @@
 <!-- hi guys i am ayush kumar -->
 
 <details>
-	<summary> expand to se my educational qualifications! </summary>
-	
-	 ## my edu q. list enjoy!
+	<summary>click to see my edu qualifications!</summary>
 
-	 - gha 1
-	 - kiet 2
+ 	#### school
+  	- ncps
+   	- gha
+    	#### college
+     	-kiet
 </details>
 
-cbcz
