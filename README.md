@@ -5,7 +5,7 @@
 <img src=""
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushk101&label=Profile%20views&color=d400ff&style=flat-square" alt="ayushk101" /> </p>
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/Ayushk101/github-readme/blob/output/github-contribution-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
