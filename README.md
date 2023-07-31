@@ -1,7 +1,7 @@
 ![CreateRemote Cover](https://github.com/AyushK101/AyushK101/assets/135014496/56c54f7e-917c-4ac0-9338-cbdf1d15aafb)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-kumar-56279) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AyushK_101) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AyushK_101) 
 
 # <img src="https://github.com/AyushK101/AyushK101/assets/135014496/5eeb4758-dcf7-4940-943d-7e952a9c9945" alt="heading" width="180px" height="38px">
 
