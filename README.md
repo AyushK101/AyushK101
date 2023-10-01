@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushK101&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushK101&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-##Badges :)
+## Badges :)
 [![An image of @ayushk101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushk101)](https://holopin.io/@ayushk101)
 
 ## 🏆 GitHub Trophies
