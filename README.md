@@ -1,4 +1,4 @@
-![CreateRemote Cover](![image](https://github.com/AyushK101/AyushK101/assets/135014496/52ac29cd-9892-4002-b9ea-2f8965960b82))
+<img src="https://github.com/AyushK101/AyushK101/assets/135014496/d260a5a2-6003-4182-9b37-1e59bf5db9e5" style="width:100vw"></img>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-516256279) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AyushK_101) 
