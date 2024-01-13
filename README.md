@@ -31,11 +31,12 @@ Hi, I am Ayush Kumar from Gaziabad, Noida, India. I am a developer & learing web
 
 - Learning
 <table>
-	<tr></tr>
+	<tr>
 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></td>
 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></td>
 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></td
-																																																																																					 
+	</tr>																					
+</table>
 <!-- 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></td> -->
 <!-- 		<td><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></td> -->
 <!-- 		<td><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></td> -->
@@ -45,8 +46,7 @@ Hi, I am Ayush Kumar from Gaziabad, Noida, India. I am a developer & learing web
 <!-- 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></td> -->
 <!--		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td> -->
 <!-- 		<td><img width="35" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></td> -->
-	</tr>
-</table>
+
 
 ### Tools 🛠️
 
@@ -92,12 +92,9 @@ Hi, I am Ayush Kumar from Gaziabad, Noida, India. I am a developer & learing web
 </div>
 
 
-
 ### Other Accounts 📫
 
 You can find and get in touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/AyushK101) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/ayushk101/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/ayushk101) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Ayushk_101) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/23116774/ayush-kumar) |
 |---|---|---|---|---|
-
-
