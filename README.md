@@ -1,9 +1,14 @@
+Heya 👋, I am **Ayush**
 
-### Hi there 👋
+<details>
+	<summary> 🧑🏻 Know more about me!</summary>
 
-Hi, I am Ayush Kumar from Gaziabad, Noida, India. I am a developer & learing website development using mainly MERN stack by now.
-
-
+  - 🌍 I live in Gaziabad, India  
+  - ✉️ Contact me at [socialacc211@gmail.com](mailto:socialacc211@gmail.com)  
+  - 🚀 Sharing my public journey on [Twitter](https://twitter.com/AyushK_101)  
+  - 🧠 Learning full stack development!  
+  - 🫱🏻‍🫲🏻 Interested in collaborations  
+</details>
 
 
 ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushK101&show_icons=true&include_all_commits=true)
