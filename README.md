@@ -63,7 +63,7 @@ Heya 👋, I am **Ayush**
 	<td><img width="38" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
 	<td><img width="38" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
 	<td><img width="38" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></td>
-	<td><img width="38" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
+	<!-- <td><img width="38" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td> -->
 	<td><img width="38" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </td>
 	 <td><img width="38" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td>
@@ -72,6 +72,7 @@ Heya 👋, I am **Ayush**
   </table>
 </div>
 
+<!--
 - Learning
  
 <div >
@@ -84,6 +85,7 @@ Heya 👋, I am **Ayush**
 		</tr>
 	</table>
 </div>
+-->
 
 - Operating System
 
