@@ -15,7 +15,7 @@ Heya 👋, I am **Ayush**
 
 
 
-### Programming Languages 🌐
+### Programming Languages 🌐 + tools 🛠️
 
 - Know/Using
 <div >
@@ -44,11 +44,6 @@ Heya 👋, I am **Ayush**
 		<td><img width="38" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
 	</tr>																					
 </table>
-
-
-### Tools 🛠️
-
-- Know/Using
 <div > 
   <table>
     <tr>
