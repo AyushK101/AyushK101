@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-## 📄[resume](https://drive.google.com/file/d/1FRVnGk_Ew1ijMFBFoNVClXdgHGLjNZr4/view?usp=sharing)
+## 📄[resume](https://drive.google.com/file/d/1FRVnGk_Ew1ijMFBFoNVClXdgHGLjNZr4/view?usp=sharing) | ✍️ [blogs](https://ayushk.bearblog.dev/)
 
 ## contact & socials:
 [![contact](https://skillicons.dev/icons?i=gmail)](mailto:socialacc211@gmail.com.com)
